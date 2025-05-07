@@ -118,14 +118,25 @@ paper1/
 - **Feature Importance**: Dynamic assessment of which features matter most
 - **Risk Management**: Comprehensive position sizing and risk control
 
-### 5. Simulation and Visualization
+### 5. Data Download
+
+프로젝트에 필요한 데이터셋은 다음 Google Drive 링크에서 다운로드할 수 있습니다:
+- **Google Drive**: [https://drive.google.com/drive/folders/1vHxKgrkjguXfgmIOUWqbbSdD1XXDnbSK?usp=sharing](https://drive.google.com/drive/folders/1vHxKgrkjguXfgmIOUWqbbSdD1XXDnbSK?usp=sharing)
+
+다운로드한 데이터는 `data/` 디렉토리에 배치하세요. 데이터셋에는 다음이 포함됩니다:
+- 암호화폐 가격 이력 데이터
+- 전처리된 뉴스 데이터
+- 샘플 캔들스틱 차트 이미지
+- 테스트 및 검증용 데이터셋
+
+### 6. Simulation and Visualization
 
 - Backtesting across various market conditions
 - Performance comparison with baseline strategies
 - Key metric visualization (returns, drawdowns, win rate)
 - Time-series portfolio value tracking
 
-### 6. Limitations and Future Work
+### 7. Limitations and Future Work
 
 - Potential overfitting to historical data patterns
 - Computational intensity of real-time image analysis
